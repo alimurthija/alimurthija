@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Ali Murthija</h1>
-<h3 align="center">🔐 Cybersecurity & Machine Learning Enthusiast | 💻 Web Developer</h3>
+<h3 align="center">🔐 AI automation & API Integration expert | 💻 Web Developer</h3>
 
-- 🌱 Currently learning **PyTorch, TensorFlow, Cybersecurity Tools, Node.js, MongoDB**  
+- 🌱 Currently learning **Machine Learning,TensorFlow, Cybersecurity Tools, Node.js, MongoDB,Nodesd and Webhooks**  
 - 🎯 Focused on secure, intelligent, scalable systems  
 - 📫 Reach me at: **alimurthija411291@gmail.com**
 
 ---
 
-<h3 align="left">🤖 Machine Learning & Cybersecurity Tools:</h3>
+<h3 align="left">🤖Tools:</h3>
 <p align="left" style="line-height: 60px;">
   <!-- Machine Learning -->
   <a href="https://www.python.org/" target="_blank">
@@ -28,27 +28,6 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- Cybersecurity -->
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Kali Linux" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="Metasploit" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg" alt="Burp Suite" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://owasp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" alt="OWASP" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
