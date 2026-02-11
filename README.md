@@ -9,6 +9,21 @@
 
 <h3 align="left">🤖Tools:</h3>
 <p align="left" style="line-height: 60px;">
+    <!-- Automation -->
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/n8n/ea4b71" alt="n8n" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Vector Database - Pinecone -->
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pinecone/000000" alt="Pinecone" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- OR Vector Database - Weaviate -->
+  <a href="https://weaviate.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/weaviate/00C7B7" alt="Weaviate" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <!-- Machine Learning -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
