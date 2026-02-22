@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ali Murthija</h1>
-<h3 align="center">🔐 AI automation & API Integration expert | 💻 Web Developer</h3>
+<h3 align="center">🔐 AI automation & API Integration expert </h3>
 
 - 🌱 Currently learning **Machine Learning,TensorFlow, Cybersecurity Tools, Node.js, MongoDB,Nodesd and Webhooks**  
 - 🎯 Focused on secure, intelligent, scalable systems  
